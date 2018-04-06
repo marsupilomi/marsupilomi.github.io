@@ -84,24 +84,24 @@ p {
 	background: #538f8c;
 }
 
-#download_now {
+#downloadnow {
 	background: url(../img/ipad.jpg) no-repeat center top / cover;
 
 }
 
-#download_now article {
+#downloadnow article {
 	padding-top: 90px;
 	margin-bottom: 62px;
 }
 
-#download_now article h2 {
+#downloadnow article h2 {
 	font-size: 55px;
 	font-weight: lighter;
 	line-height: 55px;
 	margin-bottom: 33px;
 }
 
-#download_now article p {
+#downloadnow article p {
 	line-height: 32px;
 	margin-bottom: 33px;
 }
