@@ -170,10 +170,6 @@ hr {
 	display: none;
 }
 
-#description div div:last-child {
-	text-align: center;
-}
-
 .right{
 	float: left;
     border-left: 1px solid #ecf0f3;
@@ -195,10 +191,13 @@ hr {
 	padding: 20px 51px 20px 51px;
 	border-radius: 3px;
 	font-weight: bold;
-	margin: 0 auto;
-    display: block;
-    width: 181px;
 	letter-spacing: 1px;
+}
+
+#description div:nth-child(2) {
+	text-align: center;
+	height: 61px;
+    padding-top: 21px;
 }
 
 #info {
