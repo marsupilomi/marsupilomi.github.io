@@ -61,7 +61,7 @@ p {
 	position: absolute;
 	left: 50%;
 	margin-left: -49px;
-	top: 50%;
+	top: 54%;
 	margin-top: -49px;
 }
 
@@ -85,7 +85,7 @@ p {
 }
 
 #download_now {
-	background: url(../img/second_bg.jpg) no-repeat center top / cover;
+	background: url(../img/background.jpg) no-repeat center top / cover;
 
 }
 
