@@ -85,7 +85,7 @@ p {
 }
 
 #download_now {
-	background: url(../img/second_bg.jpg) no-repeat center top / cover;
+	background: url(../img/background.jpg) no-repeat center top / cover;
 
 }
 
@@ -144,10 +144,6 @@ p {
 	margin: 0 auto;
 }
 
-#description {
-
-}
-
 #description h3 {
 	color: #a2a7b5;
 	font-size: 15px;
@@ -174,15 +170,10 @@ hr {
 	display: none;
 }
 
-/*.line {
-	width: 1px;
-	height: 440px;
-	background: #ecf0f3;
-	float: left;
-	margin-left: 67px;
-	oborder-right: 1px solid #ecf0f3
+#description div div:last-child {
+	text-align: center;
 }
-*/
+
 .right{
 	float: left;
     border-left: 1px solid #ecf0f3;
